@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- My name is Catherine but my friends call me `Cathy`
+- I am currently studying to at LAB to become an engineer in industrial infornmation technology.
+- !
 <!--
 **Cathysalo/Cathysalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
