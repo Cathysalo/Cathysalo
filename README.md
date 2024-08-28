@@ -6,8 +6,13 @@
 - I plan to blend my tech skills with my business experience to make a positive impact in the tech industry.
 ## 🏋️‍♀️ Hobbies 
 - I enjoy going to the gym, walking outdoors, and taking on the adventure of ice swimming, we call it Avantouinti here in Finland.
+## 🤝 Let’s Connect!
+I’m always open to new opportunities, networking, and collaborations. Feel free to reach out!
 ## 📫 How to reach me
 - You can read more about me here (https://fi.linkedin.com/in/catherine-salo)
+
+
+
 <!--
 **Cathysalo/Cathysalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
