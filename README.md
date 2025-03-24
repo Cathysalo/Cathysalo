@@ -1,5 +1,5 @@
 ## Hi there 👋
-- My name is Catherine but my friends call me `Cathy` I am from the philippines and i love discovering new places and cultures.
+- My name is Catherine but my friends call me `Cathy` 
 ## 🌟 About Me
 - I have a background in microbiology and over 10 years of experience in customer support, sales, and marketing.
 - Currently studying at LAB to become an engineer in industrial infornmation technology, aiming to learn how to apply technology in real-world settings.
