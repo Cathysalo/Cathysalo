@@ -15,7 +15,7 @@
 
 I'm an **Industrial Information Technology** student at **LAB University of Applied Sciences**, working toward a career at the intersection of **cloud infrastructure and security**. Before tech, I spent over a decade in customer service, sales, and account management — including time in aviation as cabin crew. That background shapes how I build: I care as much about *who* a system serves and how it feels to use, as I do about how it's designed and built.
 
-- ☁️ Into cloud technologies and cybersecurity
+- ☁️ Into cloud technologies and security
 - 🎯 Building my skills across cloud, cybersecurity, and modern IT technologies
 - 🐧 Comfortable with Linux, Docker, and cloud environments (AWS, Azure)
 - 🚀 Learning by building — academic projects, personal projects, and everything in between
