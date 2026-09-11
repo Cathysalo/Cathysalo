@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Catherine 👋</h1>
 
-<h3 align="center">Building a career in Cloud & Cybersecurity — with 10+ years of people-first experience behind it</h3>
+<h3 align="center">Building a career in Cloud Security, backed by 10+ years of customer-facing experience</h3>
 
 <p align="center">
-  <a href="https://fi.linkedin.com/in/catherine-salo">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/catherinesalo">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/Lahti%2C%20Finland-📍-lightgrey?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Lahti%2C%20Finland-📍-lightgrey?style=for-the-badge" alt="Location">
 </p>
 
 ---
@@ -25,16 +25,16 @@ I'm an **Industrial Information Technology** student at **LAB University of Appl
 
 ### 🛠️ Technical Skills
 
-**Cloud & Infrastructure**
+**Cloud & Infrastructure**  
 `AWS` `Azure` `Linux` `Docker` `Virtualization`
 
-**Development**
+**Development**  
 `Python` `JavaScript` `TypeScript` `React` `React Native` `Node.js` `Express`
 
-**Data & Machine Learning**
+**Data & Machine Learning**  
 `Pandas` `Scikit-learn` `TensorFlow`
 
-**Tools**
+**Tools**  
 `Git` `GitHub` `VS Code`
 
 ---
@@ -42,14 +42,16 @@ I'm an **Industrial Information Technology** student at **LAB University of Appl
 ### 🚀 Featured Projects
 
 #### 🔒 Silka — Thesis Project | Personal Safety App *(private / in development)*
+
 *React Native · Expo · TypeScript · Node.js · Express*
 
-A mobile safety app I'm developing with a focus on security, privacy, and usability
+A mobile safety app I'm developing with a focus on security, privacy, and usability.
 
 #### ♻️ Digital Recycling Handbook
+
 *React · Vite · JavaScript · React Router · i18next*
 
-A multilingual recycling guide designed to make recycling information clear and accessible to users from different language and backgrounds.
+A multilingual recycling guide designed to make recycling information clear and accessible to users from different language backgrounds.
 
 ---
 
@@ -57,12 +59,14 @@ A multilingual recycling guide designed to make recycling information clear and 
 
 My GitHub also includes projects and coursework from my studies, covering areas such as **cloud computing, DevOps, Linux, Docker, virtualization, IoT, machine learning, data analysis, and software development**.
 
+---
+
 ### 🤝 Let's Connect
 
 I'm open to IT opportunities, networking, and collaborations.
 
 <p align="center">
-  <a href="https://fi.linkedin.com/in/catherine-salo">
-    <img src="https://img.shields.io/badge/Let's%20talk-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/catherinesalo">
+    <img src="https://img.shields.io/badge/Let's%20talk-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
