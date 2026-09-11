@@ -1,84 +1,68 @@
-## Hi there 👋
-- My name is Catherine but my friends call me `Cathy` 
-## 🌟 About Me
-- I have a background in microbiology and over 10 years of experience in customer support, sales, and marketing.
-- Currently studying at LAB to become an engineer in industrial infornmation technology, aiming to learn how to apply technology in real-world settings.
-- I plan to blend my tech skills with my business experience to make a positive impact in the tech industry.
-## 🏋️‍♀️ Hobbies 
-- I enjoy going to the gym, walking outdoors, and taking on the adventure of ice swimming, we call it Avantouinti here in Finland.
-## 🤝 Let’s Connect!
-I’m always open to new opportunities, networking, and collaborations. Feel free to reach out!
-## 📫 How to reach me
-- You can read more about me here (https://fi.linkedin.com/in/catherine-salo)
+<h1 align="center">Hi, I'm Catherine 👋</h1>
 
+<h3 align="center">Building a career in Cloud & Cybersecurity — with 10+ years of people-first experience behind it</h3>
 
-
-<!--
-**Cathysalo/Cathysalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# Hi there! I'm Catherine Salo 👋
-
-I’m a professional with a love for both science and people! I hold a Bachelor's degree in **Microbiology** (2010) and have over 10 years of experience in **Customer Support**, **Sales and Marketing**, and **Account Management**. While my academic journey revolved around biology, chemistry, and even a bit of mathematics and economics, my professional path took me to the dynamic world of business and customer success.
-
-## 🌟 About Me
-Over the years, I've found great satisfaction in working with people, solving problems, and making an impact. I thrive on building strong relationships, delivering results, and continuously learning new things.
-
-## 🔭 What I Do
-- **Client Onboarding & Relationship Management**: Creating exceptional experiences for clients and fostering long-term partnerships.
-- **Data Analysis & Reporting**: Analyzing customer data and market trends to provide actionable insights.
-- **Sales & Marketing Strategy**: Developing and executing strategies that drive growth and engagement.
-- **Market Research**: Identifying new opportunities and helping businesses stay ahead of the curve.
-
-## 💬 Ask Me About
-- Effective Customer Support Strategies
-- Building and Managing Client Relationships
-- Data-Driven Marketing Techniques
-- Sales and Business Development
-
-## 📊 Skills & Tools
-- **Communication & Problem-Solving**: Proficient in navigating complex customer interactions and finding win-win solutions.
-- **Data Analysis**: Skilled in tools like Excel, CRM platforms, and other data management tools.
-- **Marketing & Sales**: Experienced in creating impactful marketing campaigns and driving sales success.
-- **Stakeholder Engagement**: Effective at managing and communicating with diverse stakeholders.
-
-## 🌱 Currently Exploring
-- Leveraging data for strategic business decisions.
-- Improving customer retention and satisfaction through innovative approaches.
-- Learning about digital marketing trends and technologies.
-
-## 🏋️‍♀️ Hobbies and Interests
-- **Visiting the Gym**: A fitness enthusiast who enjoys strength training and staying active.
-- **Walking Outdoors**: I love spending time in nature, walking, and discovering new trails.
-- **Ice Swimming**: An adventurous spirit who enjoys the thrill and health benefits of ice swimming!
-
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/catherine-salo/)
-- [Twitter](https://twitter.com/catherine_salo)
-- Email: [catherine.salo@example.com](mailto:catherine.salo@example.com)
-
-## 🤝 Let’s Connect!
-I’m always open to new opportunities, networking, and collaborations. If you’re interested in discussing customer success, sales, or just want to chat about outdoor activities and ice swimming, feel free to reach out!
+<p align="center">
+  <a href="https://fi.linkedin.com/in/catherine-salo">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Lahti%2C%20Finland-📍-lightgrey?style=for-the-badge" alt="Location"/>
+</p>
 
 ---
 
-### Thanks for visiting my profile! 😊
+### 👩‍💻 About Me
 
+I'm an **Industrial Information Technology** student at **LAB University of Applied Sciences**, working toward a career at the intersection of **cloud infrastructure and security**. Before tech, I spent over a decade in customer service, sales, and account management — including time in aviation as cabin crew. That background shapes how I build: I care as much about *who* a system serves and how it feels to use, as I do about how it's designed and built.
 
-    who are you?
-    where are you from?
-    what kind of hobbies do you have?
-    what kind of knowledge you have?
-    what do you expect from your studies?
-    what kind of future plans do you have?
--->
+- ☁️ Into cloud technologies and cybersecurity
+- 🎯 Building my skills across cloud, cybersecurity, and modern IT technologies
+- 🐧 Comfortable with Linux, Docker, and cloud environments (AWS, Azure)
+- 🚀 Learning by building — academic projects, personal projects, and everything in between
+- 💼 Open to IT opportunities, collaborations, and good conversations
+
+---
+
+### 🛠️ Technical Skills
+
+**Cloud & Infrastructure**
+`AWS` `Azure` `Linux` `Docker` `Virtualization`
+
+**Development**
+`Python` `JavaScript` `TypeScript` `React` `React Native` `Node.js` `Express`
+
+**Data & Machine Learning**
+`Pandas` `Scikit-learn` `TensorFlow`
+
+**Tools**
+`Git` `GitHub` `VS Code`
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔒 Silka — Thesis Project | Personal Safety App *(private / in development)*
+*React Native · Expo · TypeScript · Node.js · Express*
+
+A mobile safety app I'm developing with a focus on security, privacy, and usability
+
+#### ♻️ Digital Recycling Handbook
+*React · Vite · JavaScript · React Router · i18next*
+
+A multilingual recycling guide designed to make recycling information clear and accessible to users from different language and backgrounds.
+
+---
+
+### 📚 Other Projects & Coursework
+
+My GitHub also includes projects and coursework from my studies, covering areas such as **cloud computing, DevOps, Linux, Docker, virtualization, IoT, machine learning, data analysis, and software development**.
+
+### 🤝 Let's Connect
+
+I'm open to IT opportunities, networking, and collaborations.
+
+<p align="center">
+  <a href="https://fi.linkedin.com/in/catherine-salo">
+    <img src="https://img.shields.io/badge/Let's%20talk-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
